@@ -163,6 +163,7 @@ cython_debug/
 /data
 /data1
 /yolov8s-blood-cell-detection
+/X-AnyLabeling
 data.rar
 data1.zip
 movement.avi
